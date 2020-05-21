@@ -1,9 +1,6 @@
-<p align="center">
-   <img src="https://i.ibb.co/HYtxgKZ/imagem-port.png" alt="Regency">
-</p>
-
 <div align="center">
-   <h3>Regency</h3>
+   <img width="344px" height="228px" src="https://i.ibb.co/HYtxgKZ/imagem-port.png" alt="Regency">
+   <br />
    <p>Application developed for Portuguese work on verbal regency</p>
 </div>
 
