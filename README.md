@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://i.ibb.co/HYtxgKZ/imagem-port.png" alt="Regency">
+</p>
+
 # Regency
 
 Application developed for Portuguese work on verbal regency
