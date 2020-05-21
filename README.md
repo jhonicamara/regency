@@ -38,7 +38,7 @@ The best game for verbal regency
 
 </br>
 
-<div style="display: flex; flex-direction: row; max-width: 100%; justify-content: space-between;"> 
+<div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between;"> 
   <img src="demo/demo3.gif" width="278" height="495" />
   <img src="demo/demo1.gif" width="278" height="495" />
   <img src="demo/demo2.gif" width="278" height="495" />
