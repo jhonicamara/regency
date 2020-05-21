@@ -1,5 +1,6 @@
-
+<p align="center">
 <img width="344px" height="228px" src="https://i.ibb.co/HYtxgKZ/imagem-port.png" alt="Regency">
+</p>
 
 ## Regecy
 
