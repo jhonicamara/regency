@@ -31,16 +31,18 @@ The best game for verbal regency
 </p>
 
 <p align="center">
-  <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp
 </p>
 
 </br>
 
-![Demo3](demo/demo3.gif)
-![Demo1](demo/demo1.gif)
-![Demo2](demo/demo2.gif)
+<div style="display: flex; flex-direction: row; max-width: 100%;"> 
+  <img style="margin-left: 10px;" src="demo/demo3.gif" width="278" height="495" />
+  <img style="margin-left: 10px;" src="demo/demo1.gif" width="278" height="495" />
+  <img style="margin-left: 10px;" src="demo/demo2.gif" width="278" height="495" />
+</div>
 
 </br>
 
