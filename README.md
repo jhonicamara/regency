@@ -38,11 +38,11 @@ The best game for verbal regency
 
 </br>
 
-<div style="display: flex; flex-direction: row">
-  <img src="https://h9hksg.ch.files.1drv.com/y4mjqbFwAVlfnQNomwiFlXaZOkeXsmYS1Xvqk-MfrhcmELn9ZJrCBx-74cCAsFITnW475Ok1rQaJYcJ8-MsJQMbuUWGkaaZna2I7Ko4co1W_IO41JlktXz3z3gxoLOnOxmB8em-zhw_jVzKkoIRFz78FOD7gd7C6D6h8kh2PSZD649GHHZCTwprpGoIDew9Xjj_XrCqcSgUkqTTVMClWl5DWQ" width="371" height="660" />
-  <img src="https://fthksg.ch.files.1drv.com/y4mF3W5S5gD9WXIMsHNXtqKE6aTmjHtdpWuoLH-w3IN_4RAzkxEaYtXY5_QpVEhKs0prn1GoW-8wsQP-yk8E60dXud1FKRuTeLedMpjUWRhrn1Jo0UC71BBcQsTcxJ_OjNxM_Mj-AiP4OyPcaZaREPyIzo5ajgf3aH4AfnX_M--AzzJhELBRTFA_2sUCt0MU42oSrN3YXFdtCLjqrWexI2GCA" width="371" height="660" />
-  <img src="https://inhksg.ch.files.1drv.com/y4mWjFpo6IsrvVR_wqI_pzvSsK-6qH3u4wuUggcdGRGiK1FF7MNNhdkrxWu3IpJQM9pJUx_3tWWJdQspqSCdwHWyH8Y9Os6jTViB4SrmbbKxPcTWgl_HVMQF-ZIaXRAuItn1KQwLq76wUw7zZebUJBHbRX3JwgeiJtzoIZRxMLT36oYS9KxwNndFM-PFu-StwUGJRb7BcyTRo9wQWuWE1A_CQ" width="371" height="660" />
-</div>
+![Demo3](demo/demo3.gif)
+![Demo1](demo/demo1.gif)
+![Demo2](demo/demo2.gif)
+
+</br>
 
 ## 📜 About the project
 
