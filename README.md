@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="287px" height="64px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter_Logo">
-</p>
-
 # Regency
 
 Application developed for Portuguese work on verbal regency
