@@ -2,9 +2,10 @@
    <img src="https://i.ibb.co/HYtxgKZ/imagem-port.png" alt="Regency">
 </p>
 
-# Regency
-
-Application developed for Portuguese work on verbal regency
+<div align="center">
+   <h3>Regency</h3>
+   <p>Application developed for Portuguese work on verbal regency</p>
+</div>
 
 ## Getting Started
 
