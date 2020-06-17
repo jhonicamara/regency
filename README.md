@@ -48,7 +48,7 @@ The best game for verbal regency
 
 ## 📜 About the project
 
-Application with Flutter I developed for my Portuguese work on verbal regency
+A Flutter Application that I developed for my Portuguese assignment on verbal regency
 
 ## 🚀 Technologies
 
